@@ -42,8 +42,7 @@
 }
 .button1{
   background-color: aqua;
-  gap:10px;
-  row-gap:23px
+  
 }
 .button2{
 background-color:violet;
